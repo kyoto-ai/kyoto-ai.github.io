@@ -1,0 +1,35 @@
+# jemdoc: menu{MENU}{ot.html},showsource = Kyoto-ai,addcss{jemdoc.css}
+
+= Optimal Transport
+
+== OT algorithms
+- Mathis Petrovich, Chao Liang, Yanbin Liu, Yao-Hung Hubert Tsai, Linchao Zhu, Yi Yang, Ruslan Salakhutdinov, Makoto Yamada\n
+Feature Robust Optimal Transport for High-dimensional Data. [https://arxiv.org/abs/2005.12123 arXiv]
+- Ryoma Sato, Marco Cuturi, Makoto Yamada, Hisashi Kashima \n
+Fast and Robust Comparison of Probability Measures in Heterogeneous Spaces. [https://arxiv.org/abs/2002.01615 arXiv]
+- Tam Le, Viet Huynh, Nhat Ho, Dinh Phung, Yamada, M.\n
+Tree-Wasserstein Barycenter for Large-Scale Multilevel Clustering and Scalable Bayes [https://arxiv.org/abs/1910.04483 arXiv]
+- Tam Le, Nhat Ho, Makoto Yamada \n
+Fast Tree Variants of Gromov-Wasserstein. [https://arxiv.org/abs/1910.04462 arXiv]
+- Yanbi Liu, Makoto Yamada, Yao-Hung Hubert Tsai, Tam Le, Ruslan Salakuhtdinov, Yi Yang. \n
+LSMI-Sinkhorn: Semi-supervised Squared-Loss Mutual Information Estimation with Optimal Transport. [https://arxiv.org/abs/1909.02373 arXiv]
+
+- Tam Le, Makoto Yamada, Kenji Fukumizu, Marco Cuturi \n
+Tree-Sliced Variants of Wasserstein Distances.\n
+NeurIPS 2019
+- Makoto Yamada, Leonid Sigal, Michalis Raptis, Machiko Toyoda, Yi Chang, Masashi Sugiyama \n
+Cross-Domain Matching with Squared-Loss Mutual Information \n
+[http://www.computer.org/portal/web/tpami/home IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)], vol.37, no.9, pp.1764-1776, 2015.
+
+- Makoto Yamada,  Masashi Sugiyama \n
+Cross-Domain Object Matching with Model Selection.\n
+AISTATS 2011
+
+== OT applications
+- Liu, Y., Zhu, L., Yamada, M., Yang, Y.\n
+Semantic Correspondence as an Optimal Transport Problem \n
+CVPR 2020
+- Tanmoy Mukherjee, Makoto Yamada, Timothy Hospedales \n
+Learning UnsupervisedWord TranslationsWithout Adversaries. \n
+EMNLP 2018 
+
